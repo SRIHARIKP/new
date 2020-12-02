@@ -1,0 +1,134 @@
+.fa-facebook 
+{
+ 
+  color: black;
+  size: 50%;
+  border-radius: 12px;
+}
+.fa-youtube
+{
+  
+  color: black;
+  border-radius: 12px;
+}
+.fa-google {
+  
+  color: black;
+    border-radius: 12px;
+
+}
+.fa-instagram {
+  color: black;
+    border-radius: 12px;
+
+}
+.fa-whatsapp {
+  color: black;
+    border-radius: 12px;
+
+}
+.fa-twitter {
+  color: black;
+    border-radius: 12px;
+
+}
+
+.fa{padding: 20px;
+  font-size: 30px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+}
+#work{
+  background-color: white;
+}
+#enquiry
+{
+  background-color: #FF6200;
+}
+section
+{
+width: 100%;
+background-color: white;
+color:black;
+}
+h1
+{
+color: white;
+}
+header
+{
+  background-color: #FF6200;
+  position: fixed;
+  width: 100%;
+  z-index:1;
+}
+footer
+{
+  background-color: #FF6200;
+  width:100%;
+}
+.description
+{
+font-family: Sans-Serif;
+}
+.quicklink
+{ 
+background-color: #64dd17;
+color:black;
+padding-top:10px;
+}
+.company
+{
+border-style: solid;
+border-color: #FF6200;
+}
+#dummy,#about
+{
+background-color: #64dd17;
+}
+input
+{
+width:100%;
+}
+textarea
+{
+width:100%;
+}
+.submit
+{
+width: 25%;
+}
+html
+{
+scroll-behavior: smooth;
+}
+.carousel-indicators
+{
+z-index: 0;
+}
+.img-fluid
+{
+width: 100px;
+}
+.nav-link {
+  background-color: #FF6200; /*orange*/
+  border: none;
+  color: black;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+
+.nav-link {
+  color: black; 
+
+}
+
+.nav-link:hover {
+  background-color: black;
+  color: white;
+}
